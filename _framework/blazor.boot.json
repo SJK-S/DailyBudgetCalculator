@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "DailyBudgetCalculator.dll": "sha256-sPYXbuX4wf2Ywaa0JoD5Fu5cIPPdFSAQnciLD\/0klQQ=",
+      "DailyBudgetCalculator.dll": "sha256-jv7nPj4SAfm\/MaABubj64bMA+EQnAJ3n4k0sOtetZUE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-nFqmt0BDtg+Yqu+g4ueH7x0wnfHHWkuSUemANx+l\/pQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-pS6neF9kpWN2HIz0ankgvM9P\/LGkoppfgrYLcKqnsOs=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-2fbR6RpUxEMnL89Bp4BedWtQJQRpzWAu87gh1UjPAWk=",
